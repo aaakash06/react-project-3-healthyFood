@@ -1,0 +1,8 @@
+.container
+{
+padding: 5% 5%;
+border: 1px solid rgb(172, 79, 79);
+border-radius: 5px;
+margin: 50px auto;
+max-width: 500px;
+}

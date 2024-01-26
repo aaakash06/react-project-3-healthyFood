@@ -1,0 +1,36 @@
+.container {
+  border: 1px solid rgb(138, 134, 134);
+  width: 350px;
+  height: 600px;
+  border-radius: 5px;
+  margin: 20px auto;
+}
+
+.buttons-container {
+  margin: 0 auto;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.btn {
+  margin: 7px;
+  width: 25%;
+  height: 70px;
+  border: 1px solid rgb(59, 33, 33);
+}
+.display {
+  height: 4em;
+  padding: 20px;
+}
+.displayScreen {
+  width: 100%;
+  font-size: 1.5em;
+  border: 2px solid rgb(56, 20, 20);
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
